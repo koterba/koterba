@@ -2,7 +2,9 @@
 
 
 duck
-<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/how-to-keep-ducks-call-ducks-1615457181.jpg" width="100px">
+<p>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/how-to-keep-ducks-call-ducks-1615457181.jpg" width="200px">
+</p>
 
 ### Some stuff I use
 ![](https://img.shields.io/badge/Arch-gray?style=flat&logo=Arch%20Linux&label=OS&color=9779d4)
