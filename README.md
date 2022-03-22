@@ -2,6 +2,8 @@
 
 
 ![](https://cdn.discordapp.com/attachments/947092663914623016/955897263442501752/graph.png)
+<br />
+<br />
 
 ### Some stuff I use
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
