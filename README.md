@@ -1,7 +1,7 @@
 # Hello i am alan
 
 
-[![Sparkline](https://stars.medv.io/alannxq/badges.svg)](https://stars.medv.io/alannxq/badges)
+[![Sparkline](https://stars.medv.io/alannxq/stars.svg)](https://stars.medv.io/alannxq/stars)
 
 ### Some stuff I use
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
