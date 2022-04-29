@@ -4,6 +4,8 @@ A 17 y/o cyber security student from England
 
 submit a PR with a comment of your choice 😳:
 
+shut up alan - Amathebeast
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Arch-black?style=flat&logo=Arch%20Linux&logoColor=white&label=OS&color=6aa6f8)
