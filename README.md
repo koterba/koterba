@@ -1,4 +1,4 @@
-# Hi! c: i am alan
+# Hi! (ᵔᴥᵔ) i am alan
 A 17 y/o cyber security student from England
 
 <br>
