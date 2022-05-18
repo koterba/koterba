@@ -30,5 +30,7 @@ shut up alan - Amathebeast
 
 ## 🧩 Things im learning
 
-![](https://img.shields.io/badge/Lang-C++-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Lang-C-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Lang-C++-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Lang-C-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Lang-JS-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Lang-Nim-blue?style=for-the-badge)
