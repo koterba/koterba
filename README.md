@@ -1,4 +1,4 @@
-# Heya! C: i am alan
+# Hi! c: i am alan
 A 17 y/o cyber security student from England
 
 <br>
