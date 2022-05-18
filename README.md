@@ -27,3 +27,8 @@ shut up alan - Amathebeast
 ![](https://img.shields.io/badge/St-black?style=flat&logo=suckless&logoColor=white&label=Terminal&color=6aa6f8)
 ![](https://img.shields.io/badge/Alacritty-black?style=flat&logo=alacritty&logoColor=white&label=Terminal&color=6aa6f8)
 <br>
+
+## 🧩 Things im learning
+
+![](https://img.shields.io/badge/Lang-C++-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Lang-C-orange?style=for-the-badge)
