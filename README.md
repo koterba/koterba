@@ -7,7 +7,7 @@ A 17 y/o cyber security student from England
 ### submit a PR with a comment 😳:<br>
 "shut up alan" - **Amathebeast**<br>
 "hi bestie" - **Taha**<br>
-"hi c:" - Korin
+"hi c:" - **Korin**<br>
 
 
 ## 🔧 Technologies & Tools
