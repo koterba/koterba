@@ -25,7 +25,7 @@
 </p>
 <br>
 
-## Stats
+## Stats <img width="3%" src="https://cdn3.emoji.gg/emojis/6429-uneasy-stare.png"/>
 <p>
 <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannxq&theme=discord_old_blurple&langs_count=5&hide_border=true"/>
 <img width="65%" align="right" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&theme=discord_old_blurple&show_icons=true&hide_border=true" />
