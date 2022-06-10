@@ -2,13 +2,15 @@
 A 17 year old computing student from England
 
 <br>
-
+<p>
 
 ### submit a PR with a comment 😳:<br>
 "shut up alan" - **Amathebeast**<br>
 "hi bestie" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Taha**<br>
 "hi c:" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Korin**<br>
 
+<img width="55%" align="right" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&theme=discord_old_blurple&show_icons=true&hide_border=true" />
+</p>
 <br>
 
 <p>
