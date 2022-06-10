@@ -1,5 +1,5 @@
-# <img width="5%" src="https://cdn3.emoji.gg/emojis/welcomeglitch.gif"/> Hi! i am alan <img width="3%" src="https://cdn3.emoji.gg/emojis/1478-mc-bee.gif"/>
-### A 17 year old computing student from England
+# Hi! i am alan <img width="3%" src="https://cdn3.emoji.gg/emojis/1478-mc-bee.gif"/>
+### <img width="5%" src="https://cdn3.emoji.gg/emojis/welcomeglitch.gif"/> A 17 year old computing student from England
 
 <br>
 
