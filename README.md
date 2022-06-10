@@ -36,3 +36,5 @@ A 17 year old computing student from England
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alannxq&langs_count=8)]
