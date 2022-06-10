@@ -1,5 +1,5 @@
-# Hi! (ᵔᴥᵔ) i am alan
-> ![](https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif) A 17 year old computing student from England
+#  ![](https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif) Hi! (ᵔᴥᵔ) i am alan
+> A 17 year old computing student from England
 
 <br>
 
