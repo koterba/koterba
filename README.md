@@ -4,13 +4,7 @@ A 17 year old computing student from England
 <br>
 
 
-<div style="background: red" markdown=1>
-
-
-Testing **Markdown** inside a red-background div.
-
-
-</div>
+<span style="display:block" class="note">It **works!**</span>
 
 
 <p>
