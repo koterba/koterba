@@ -12,13 +12,6 @@ A 17 year old computing student from England
 <br>
 
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
@@ -36,7 +29,8 @@ A 17 year old computing student from England
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 </p>
+<br>
 <p>
-  <img align="left" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&show_icons=true&hide_border=true" />
+  <img width="55%" align="left" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&show_icons=true&hide_border=true" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannxq&langs_count=5"/>
 </p>
