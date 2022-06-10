@@ -32,6 +32,6 @@ A 17 year old computing student from England
 <br>
 <p>
   <img width="55%"  alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&show_icons=true&hide_border=true" />
-  &nbsp&nbsp&nbsp
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alannxq&langs_count=5"/>
 </p>
