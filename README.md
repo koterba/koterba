@@ -3,7 +3,7 @@
 
 <br>
 
-## Technologies
+## Technologies <img width="3%" src="https://cdn3.emoji.gg/emojis/7609-flattered.png"/>
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
