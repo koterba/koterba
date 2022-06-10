@@ -1,4 +1,4 @@
-# ![](https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif) Hi! (ᵔᴥᵔ) i am alan ![](https://cdn3.emoji.gg/emojis/1945-symbolexclamation.gif)
+# ![](https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif) Hi! (ᵔᴥᵔ) i am alan <img width="20%" src="https://cdn3.emoji.gg/emojis/1945-symbolexclamation.gif"/>
 > A 17 year old computing student from England
 
 <br>
