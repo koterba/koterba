@@ -11,6 +11,7 @@ A 17 year old computing student from England
 <img width="55%" align="right" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&theme=discord_old_blurple&show_icons=true&hide_border=true" />
 </p>
 <br>
+<br><br><br><br>
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg"></code>
