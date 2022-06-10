@@ -31,4 +31,4 @@
 <img width="65%" align="right" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&theme=discord_old_blurple&show_icons=true&hide_border=true" />
 </p>
 
-|| hi allis ||
+hi allis
