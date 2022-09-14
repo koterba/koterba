@@ -25,4 +25,8 @@
 <img width="65%" align="right" alt="Alan's github stats" src="https://github-readme-stats.vercel.app/api?username=alannxq&theme=discord_old_blurple&show_icons=true&hide_border=true" />
 </p>
 
+<p align="center">
+ <img src="https://cdn.discordapp.com/attachments/947092663914623016/1019575614996492338/banner_buttom.png">
+</p>
+
 hi allis
