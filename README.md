@@ -1,11 +1,6 @@
-# Hi! i am alan <img width="3%" src="https://cdn3.emoji.gg/emojis/1478-mc-bee.gif"/>
-### A computing student from England <img width="2%" src="https://cdn3.emoji.gg/emojis/9833-cuteexclamationmarks.png"/>
-
 <p align="center">
  <img src="https://cdn.discordapp.com/attachments/947092663914623016/1019571257450172487/banner_top.png">
 </p>
- 
-<br>
 
 ## Technologies <img width="3%" src="https://cdn3.emoji.gg/emojis/7609-flattered.png"/>
 
