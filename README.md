@@ -1,6 +1,6 @@
 <p align="center">
  <img src="https://cdn.discordapp.com/attachments/947092663914623016/1019573304262131792/banner_top_2.png">
-</p>
+</p> 
 
 <p align="center">
 <b>I'm a computing student and I love coding in my spare time. Currently learning Rust and C++</b>
