@@ -7,7 +7,7 @@
 </p>
 
 <br>
-
+ 
 <h1 align="center">Technologies</h1>
 <p align="center">
 <a href="https://www.rust-lang.org/" target="_blank"> <img align="center" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/> </a>
