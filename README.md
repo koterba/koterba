@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<b>I'm a computing student and I love coding. Currently learning Rust and C++</b>
+<b>I'm a computing student and I love coding. Currently using Rust and learning C++</b>
 </p>
 
 <br>
