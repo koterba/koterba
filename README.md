@@ -1,24 +1,49 @@
-
-<h1 align="center">👋</h1>
+<h1 align="center">Hello there! 👋</h1>
 
 <p align="center">
-<b>Computer Science student. Currently using Rust and learning C++</b>
+  <b>Software Developer | Systems Enthusiast</b>
+  <br />
+  Building high-performance applications and exploring how complex systems work.
 </p>
 
-<br>
+---
 
-<h2 align="center">Technologies</h2>
+<h3 align="center">Core Toolkit</h3>
+
 <p align="center">
-<a href="https://www.rust-lang.org/" target="_blank"> <img align="center" alt="Rust" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="center" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="center" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<img align="center" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-<br />
-<br />
-
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="center" alt="XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/2044px-Vimlogo.svg.png"/> </a> 
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="http://rust-lang.org/logos/rust-logo-128x128-blk.png" alt="Rust" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
+---
 
+<div align="center">
+<div style="display: inline-block; text-align: left;">
+
+### Primary Interests
+
+<ul>
+  <li>
+    <strong>Systems Development:</strong> Crafting efficient, memory-safe applications and tooling in Rust.
+  </li>
+  <li>
+    <strong>Application Analysis:</strong> A passion for debugging, decompiling applications (C#), and analyzing how systems behave.
+  </li>
+  <li>
+    <strong>Hardware & IoT:</strong> Experimenting with physical computing and bringing ideas to life with platforms like Arduino.
+  </li>
+</ul>
+
+</div>
+</div>
